@@ -1,0 +1,11 @@
+pandas
+numpy
+numpy-base
+numpydoc
+scikit-image
+scikit-learn
+scipy
+psycopg2
+pulp
+pmdarima
+
